@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39da8e32-0505-4880-9e07-e1e8f6972a87" name="Changes" comment="Spam email classification.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spam_Detect_Random_Forrest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_Random_Forest.py" afterDir="false" />
-    </list>
+    <list default="true" id="39da8e32-0505-4880-9e07-e1e8f6972a87" name="Changes" comment="Spam email classification." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,24 +32,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Spam_Detect.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Spam_Detect_DecisionTree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Spam_Detect_KNN.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Spam_Detect_Logistic_Regression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Spam_Detect_Naive_Bayes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Spam_Detect_Random_Forrest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Spam_Detect_SVM.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/Mlproj&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Spam_Detect.executor": "Run",
+    "Python.Spam_Detect_DecisionTree.executor": "Run",
+    "Python.Spam_Detect_KNN.executor": "Run",
+    "Python.Spam_Detect_Logistic_Regression.executor": "Run",
+    "Python.Spam_Detect_Naive_Bayes.executor": "Run",
+    "Python.Spam_Detect_Random_Forest.executor": "Run",
+    "Python.Spam_Detect_Random_Forrest.executor": "Run",
+    "Python.Spam_Detect_SVM.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/Mlproj"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\Mlproj" />
@@ -122,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718058747539</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Spam email classification.">
+      <option name="closed" value="true" />
+      <created>1723126126428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723126126429</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
