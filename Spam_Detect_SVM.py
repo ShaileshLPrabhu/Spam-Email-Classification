@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score
 # Read the data from CSV file into a DataFrame
 df = pd.read_csv('email.csv')
 
-# Checking for missing or duplicate values
+# Removing duplicate values
 df.drop_duplicates(inplace=True)
 
 # Divide the data into training and test
@@ -30,7 +30,7 @@ y_pred_svm = sv.predict(x_test_vectorized)
 accuracy = accuracy_score(y_test, y_pred_svm)
 print('Accuracy: %.2f' % (accuracy * 100))
 
-# Confusion Matrix for SVM
+# Creating the Confusion matrix
 cm_svm = confusion_matrix(y_test, y_pred_svm)
 
 # Display the Confusion Matrix using Seaborn heatmap

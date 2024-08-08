@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score
 # Read the data from CSV file into a DataFrame
 df = pd.read_csv('email.csv')
 
-# Checking for missing or duplicate values
+# Removing duplicate values
 df.drop_duplicates(inplace=True)
 
 # Divide the data into training and test
@@ -30,7 +30,7 @@ y_pred_knn = classifier.predict(x_test_vectorized)
 accuracy = accuracy_score(y_test, y_pred_knn)
 print('Accuracy: %.2f' % (accuracy * 100))
 
-# Confusion Matrix for KNN
+# Creating the Confusion matrix
 cm_knn = confusion_matrix(y_test, y_pred_knn)
 
 # Display the Confusion Matrix using Seaborn heatmap

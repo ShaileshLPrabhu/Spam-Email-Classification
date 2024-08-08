@@ -12,7 +12,7 @@ from sklearn.preprocessing import StandardScaler
 # Read the data from CSV file into a DataFrame
 df = pd.read_csv('email.csv')
 
-# Checking for missing or duplicate values
+# Removing Duplicates values
 df.drop_duplicates(inplace=True)
 
 # Divide the data into training and test
