@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39da8e32-0505-4880-9e07-e1e8f6972a87" name="Changes" comment="Spam email classification." />
+    <list default="true" id="39da8e32-0505-4880-9e07-e1e8f6972a87" name="Changes" comment="Edited some code">
+      <change beforePath="$PROJECT_DIR$/Spam_Detect_DecisionTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_DecisionTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spam_Detect_KNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_KNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spam_Detect_Logistic_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_Logistic_Regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spam_Detect_Naive_Bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_Naive_Bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spam_Detect_Random_Forest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_Random_Forest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spam_Detect_SVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_SVM.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723126126429</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Spam email classification.">
+      <option name="closed" value="true" />
+      <created>1723126545630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723126545630</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Edited some code">
+      <option name="closed" value="true" />
+      <created>1723126995430</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723126995431</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +168,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Spam email classification" />
     <MESSAGE value="Spam email classification." />
-    <option name="LAST_COMMIT_MESSAGE" value="Spam email classification." />
+    <MESSAGE value="Edited some code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited some code" />
   </component>
 </project>
