@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39da8e32-0505-4880-9e07-e1e8f6972a87" name="Changes" comment="Edited some code">
-      <change beforePath="$PROJECT_DIR$/Spam_Detect_DecisionTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_DecisionTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spam_Detect_KNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_KNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spam_Detect_Logistic_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_Logistic_Regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spam_Detect_Naive_Bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_Naive_Bayes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spam_Detect_Random_Forest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_Random_Forest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spam_Detect_SVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spam_Detect_SVM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,25 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Spam_Detect.executor": "Run",
-    "Python.Spam_Detect_DecisionTree.executor": "Run",
-    "Python.Spam_Detect_KNN.executor": "Run",
-    "Python.Spam_Detect_Logistic_Regression.executor": "Run",
-    "Python.Spam_Detect_Naive_Bayes.executor": "Run",
-    "Python.Spam_Detect_Random_Forest.executor": "Run",
-    "Python.Spam_Detect_Random_Forrest.executor": "Run",
-    "Python.Spam_Detect_SVM.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/Mlproj"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Spam_Detect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Spam_Detect_DecisionTree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Spam_Detect_KNN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Spam_Detect_Logistic_Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Spam_Detect_Naive_Bayes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Spam_Detect_Random_Forest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Spam_Detect_Random_Forrest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Spam_Detect_SVM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/Mlproj&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\Mlproj" />
@@ -151,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723126995431</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Edited some code">
+      <option name="closed" value="true" />
+      <created>1723127036688</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723127036688</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Edited some code">
+      <option name="closed" value="true" />
+      <created>1723127050884</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723127050884</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

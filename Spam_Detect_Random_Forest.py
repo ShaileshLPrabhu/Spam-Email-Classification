@@ -20,7 +20,7 @@ cv = CountVectorizer()
 x_train_vectorized = cv.fit_transform(x_train)
 x_test_vectorized = cv.transform(x_test)
 
-# classification
+# Classification
 classifier = RandomForestClassifier(n_estimators=10, criterion="gini")
 classifier.fit(x_train_vectorized, y_train)
 y_pred = classifier.predict(x_test_vectorized)
