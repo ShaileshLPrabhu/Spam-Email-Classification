@@ -13,7 +13,9 @@ df = pd.read_csv('email.csv')
 
 # checking for missing values
 # print(df.isnull().sum()) - no missing values found
+
 # Removing Duplicates values
+
 # print(df.duplicated().sum())- 415 duplicates
 df.drop_duplicates(inplace=True)
 
