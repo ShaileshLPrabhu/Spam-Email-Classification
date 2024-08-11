@@ -8,9 +8,9 @@ step 2: Find the project files and open it in Pycharm or any other ide
 
 step 3:open terminal in your ide Install the necessary python libraries (pandas,numpy,matplotlin seaborn)
 
-pip install pandas
-pip install sklearn
-pip install matplotlib
-pip install seaborn
+pip install pandas </br>
+pip install sklearn </br>
+pip install matplotlib </br>
+pip install seaborn </br>
 
 step 4: run the project.
