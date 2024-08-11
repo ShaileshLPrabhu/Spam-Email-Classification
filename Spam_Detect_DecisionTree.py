@@ -6,13 +6,15 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import accuracy_score
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.preprocessing import StandardScaler
 
 
 # Read the data from CSV file into a DataFrame
 df = pd.read_csv('email.csv')
 
+#checking missing values
+# print(df.isnull().sum()) - no missing values found
 # Removing Duplicates values
+# print(df.duplicated().sum())- 415 duplicates
 df.drop_duplicates(inplace=True)
 
 # Divide the data into training and test
