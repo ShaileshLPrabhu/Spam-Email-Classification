@@ -6,7 +6,7 @@ git clone https://github.com/ShaileshLPrabhu/Spam-Email-Classification.git
 
 step 2: Find the project files and open it in Pycharm or any other ide 
 
-step 3:open terminal in your ide Install the necessary python libraries (pandas,numpy,matplotlin seaborn)
+step 3:open terminal in your ide Install the necessary python libraries (pandas,numpy,matplotlib seaborn)
 
 pip install pandas </br>
 pip install sklearn </br>
