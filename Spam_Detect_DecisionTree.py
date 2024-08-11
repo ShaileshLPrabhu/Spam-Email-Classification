@@ -11,7 +11,7 @@ from sklearn.tree import DecisionTreeClassifier
 # Read the data from CSV file into a DataFrame
 df = pd.read_csv('email.csv')
 
-#checking missing values
+# checking for missing values
 # print(df.isnull().sum()) - no missing values found
 # Removing Duplicates values
 # print(df.duplicated().sum())- 415 duplicates
