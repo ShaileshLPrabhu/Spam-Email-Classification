@@ -31,7 +31,7 @@ print('Accuracy: %.2f' % (accuracy * 100))
 # Creating the Confusion matrix
 cm_rf = confusion_matrix(y_test, y_pred)
 
-# Display the Confusion Matrix using Seaborn heatmap
+# Display the Confusion Matrix using the Seaborn heatmap
 sns.heatmap(cm_rf, annot=True, cmap="Blues", fmt="d")
 plt.xlabel('Predicted label')
 plt.ylabel('True label')
